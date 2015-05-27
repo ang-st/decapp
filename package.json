@@ -1,0 +1,16 @@
+{
+  "name": "decapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.10.0",
+    "node-ethereum": "file:../../../../tmp/npm-21419-243b0b0f/git-cache-1e03ce0c4469/06b75c599fddfea1553cf306f660627ddf49804a"
+  }
+}
