@@ -11,6 +11,7 @@
   "dependencies": {
     "express": "^4.12.4",
     "jade": "^1.10.0",
-    "node-ethereum": "file:../../../../tmp/npm-21419-243b0b0f/git-cache-1e03ce0c4469/06b75c599fddfea1553cf306f660627ddf49804a"
+    "node-ethereum": "file:../../../../tmp/npm-21419-243b0b0f/git-cache-1e03ce0c4469/06b75c599fddfea1553cf306f660627ddf49804a",
+    "webtorrent": "^0.48.5"
   }
 }
